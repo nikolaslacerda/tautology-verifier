@@ -1,2 +1,7 @@
-# tautology-verifier2
-:heavy_check_mark: Tautology Verifier for Propositon Statement
+# Tautology Verifier
+
+Implementação de um verificador de tautologia  
+Exercício da disciplina **Programação Funcional**
+
+## Tecnologias Usadas:
+- Haskell
